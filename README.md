@@ -1,7 +1,7 @@
 # react-vite-template
 
 Template for React with:
-- buid tool ([vite](https://vitejs.dev/)
+- buid tool ([vite](https://vitejs.dev/))
 - code style and linter ([prettier](https://prettier.io/), [eslint](https://eslint.org/))
 - typescript
 - tests ([jest](https://jestjs.io/))
